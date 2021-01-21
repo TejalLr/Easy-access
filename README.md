@@ -1,1 +1,2 @@
 # Easy-access
+Easy access is the web application where a student can create his/her account and keep posting there updated information(in form of video recording). And on the other end students can submit their reports here which will make it easier to for the guide to go through and recommend any changes. The availability of progress(in form of video recording) and reports of mini project at one place makes the job of a guide much easier.
